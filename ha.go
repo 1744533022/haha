@@ -1,5 +1,5 @@
 package hhh
 
-func haha(){
+func JJJ(){
   print("haha")
 }
